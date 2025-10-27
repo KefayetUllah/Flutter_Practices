@@ -1,6 +1,8 @@
 import 'package:expanded_class/uidesign.dart';
 import 'package:flutter/material.dart';
 
+import 'uidesign.dart';
+
 void main() {
   runApp(const MyApp());
 }
